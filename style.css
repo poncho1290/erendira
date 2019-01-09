@@ -1,0 +1,13 @@
+* {
+    /*color:                    hsla(210, 100%, 100%, 0.9) !important;
+    background:               rgba(0, 255, 221, 0.493) !important;*/
+    outline:    solid 0.25rem rgba(15, 0, 26, 1) !important;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+
+.col-12 {
+    padding: 0;
+}
